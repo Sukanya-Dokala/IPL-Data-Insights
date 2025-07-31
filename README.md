@@ -1,4 +1,4 @@
-# 🏏 IPL Matches Analysis Dashboard
+# 🏏 IPL Matches Analysis Insights
 
 This project analyzes historical IPL (Indian Premier League) data using a Jupyter Notebook. It provides insights and visualizations on match statistics such as team performances, player records, season trends, and more.
 
